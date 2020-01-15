@@ -1,0 +1,10 @@
+.my-select {
+  display: flex;
+  margin: 4px;
+  padding: 4px;
+}
+
+.my-select select {
+  margin-left: 8px;
+  border: none;
+}

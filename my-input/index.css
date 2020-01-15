@@ -1,0 +1,9 @@
+.my-input {
+  display: flex;
+  margin: 4px;
+  padding: 4px;
+}
+
+.my-input input {
+  margin-left: 8px;
+}
